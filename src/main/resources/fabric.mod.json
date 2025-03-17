@@ -3,13 +3,14 @@
 	"id": "glories-life-insurance",
 	"version": "${version}",
 	"name": "Glories Life Insurance",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Brew it or screw it.",
 	"authors": [
-		"Me!"
+		"MeteorOfTime",
+		"Glorie_"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/TeamGlorie/glories-life-insurance/",
+		"sources": "https://github.com/TeamGlorie/glories-life-insurance"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/glories-life-insurance/icon.png",
@@ -20,6 +21,9 @@
 		],
 		"fabric-datagen": [
 			"teamglorie.glorieslifeinsurance.GloriesLifeInsuranceDataGenerator"
+		],
+		"client": [
+			"teamglorie.glorieslifeinsurance.GloriesLifeInsuranceClient"
 		]
 	},
 	"mixins": [
