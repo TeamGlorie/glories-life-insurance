@@ -1,6 +1,5 @@
 package teamglorie.glorieslifeinsurance.item;
 
-import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
@@ -14,11 +13,11 @@ import teamglorie.glorieslifeinsurance.block.ModBlocks;
 
 public class ModItemGroups {
 
-    public static final RegistryKey<ItemGroup> GLORIES_GROUP = register("glories_life_insurance");
+    public static final RegistryKey<ItemGroup> GLORIES_GROUP = register();
 
-    private static RegistryKey<ItemGroup> register(String id) {
+    private static RegistryKey<ItemGroup> register() {
         return RegistryKey.of(RegistryKeys.ITEM_GROUP,
-                new Identifier(GloriesLifeInsurance.MOD_ID, id));
+                new Identifier(GloriesLifeInsurance.MOD_ID, "glories_life_insurance"));
     }
 
     public static void registerGroups() {
