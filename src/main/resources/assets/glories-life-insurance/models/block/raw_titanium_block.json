@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "glories-life-insurance:block/raw_titanium_block"
+  }
+}

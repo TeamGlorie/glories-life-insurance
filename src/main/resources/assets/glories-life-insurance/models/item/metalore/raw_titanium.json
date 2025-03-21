@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "glories-life-insurance:item/metalore/raw_titanium"
-  }
-}
