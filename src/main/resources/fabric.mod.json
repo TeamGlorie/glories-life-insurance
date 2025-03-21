@@ -6,13 +6,13 @@
 	"description": "Brew it or screw it.",
 	"authors": [
 		"MeteorOfTime",
-		"Glorie_"
+		"Glories_"
 	],
 	"contact": {
 		"homepage": "https://github.com/TeamGlorie/glories-life-insurance/",
 		"sources": "https://github.com/TeamGlorie/glories-life-insurance"
 	},
-	"license": "CC0-1.0",
+	"license": "GPL-3.0",
 	"icon": "assets/glories-life-insurance/icon.png",
 	"environment": "*",
 	"entrypoints": {
