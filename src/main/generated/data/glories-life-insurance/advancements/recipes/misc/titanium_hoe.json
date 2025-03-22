@@ -3,16 +3,16 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:titanium_ingot_from_blasting_titanium_ore"
+        "recipe": "glories-life-insurance:titanium_hoe"
       },
       "trigger": "minecraft:recipe_unlocked"
     },
-    "has_titanium_ore": {
+    "has_titanium_ingot": {
       "conditions": {
         "items": [
           {
             "items": [
-              "glories-life-insurance:titanium_ore"
+              "glories-life-insurance:titanium_ingot"
             ]
           }
         ]
@@ -22,13 +22,13 @@
   },
   "requirements": [
     [
-      "has_titanium_ore",
+      "has_titanium_ingot",
       "has_the_recipe"
     ]
   ],
   "rewards": {
     "recipes": [
-      "minecraft:titanium_ingot_from_blasting_titanium_ore"
+      "glories-life-insurance:titanium_hoe"
     ]
   },
   "sends_telemetry_event": false

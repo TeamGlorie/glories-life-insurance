@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "glories-life-insurance:titanium_ingot"
+    },
+    "|": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "##",
+    "#|",
+    " |"
+  ],
+  "result": {
+    "item": "glories-life-insurance:titanium_axe"
+  },
+  "show_notification": true
+}

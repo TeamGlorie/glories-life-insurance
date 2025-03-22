@@ -19,10 +19,17 @@ public class ModChineseProvider extends FabricLanguageProvider {
 
         translationBuilder.add(ModItems.RAW_TITANIUM, "粗钛");
         translationBuilder.add(ModItems.TITANIUM_INGOT, "钛锭");
+        translationBuilder.add(ModItems.TITANIUM_ALLOY_DUST, "钛合金粉末");
 
         translationBuilder.add(ModBlocks.TITANIUM_BLOCK, "钛块");
         translationBuilder.add(ModBlocks.RAW_TITANIUM_BLOCK, "粗钛块");
         translationBuilder.add(ModBlocks.TITANIUM_ORE, "钛矿石");
         translationBuilder.add(ModBlocks.DEEPSLATE_TITANIUM_ORE, "深层钛矿石");
+
+        translationBuilder.add(ModItems.TITANIUM_AXE, "钛斧");
+        translationBuilder.add(ModItems.TITANIUM_SWORD, "钛剑");
+        translationBuilder.add(ModItems.TITANIUM_PICKAXE, "钛镐");
+        translationBuilder.add(ModItems.TITANIUM_SHOVEL, "钛锹");
+        translationBuilder.add(ModItems.TITANIUM_HOE, "钛锄");
     }
 }

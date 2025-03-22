@@ -4,6 +4,11 @@
   "block.glories-life-insurance.titanium_block": "Titanium Block",
   "block.glories-life-insurance.titanium_ore": "Titanium Ore",
   "item.glories-life-insurance.raw_titanium": "Raw Titanium",
+  "item.glories-life-insurance.titanium_axe": "Titanium Axe",
+  "item.glories-life-insurance.titanium_hoe": "Titanium Hoe",
   "item.glories-life-insurance.titanium_ingot": "Titanium Ingot",
+  "item.glories-life-insurance.titanium_pickaxe": "Titanium Pickaxe",
+  "item.glories-life-insurance.titanium_shovel": "Titanium Shovel",
+  "item.glories-life-insurance.titanium_sword": "Titanium Sword",
   "itemGroup.glories_life_insurance": "Glorie's Life Insurance"
 }

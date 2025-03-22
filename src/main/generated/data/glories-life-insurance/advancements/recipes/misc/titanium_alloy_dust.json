@@ -1,12 +1,12 @@
 {
   "parent": "minecraft:recipes/root",
   "criteria": {
-    "has_deepslate_titanium_ore": {
+    "has_raw_titanium": {
       "conditions": {
         "items": [
           {
             "items": [
-              "glories-life-insurance:deepslate_titanium_ore"
+              "glories-life-insurance:raw_titanium"
             ]
           }
         ]
@@ -15,20 +15,20 @@
     },
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:titanium_ingot_from_smelting_deepslate_titanium_ore"
+        "recipe": "glories-life-insurance:titanium_alloy_dust"
       },
       "trigger": "minecraft:recipe_unlocked"
     }
   },
   "requirements": [
     [
-      "has_deepslate_titanium_ore",
+      "has_raw_titanium",
       "has_the_recipe"
     ]
   ],
   "rewards": {
     "recipes": [
-      "minecraft:titanium_ingot_from_smelting_deepslate_titanium_ore"
+      "glories-life-insurance:titanium_alloy_dust"
     ]
   },
   "sends_telemetry_event": false

@@ -19,10 +19,17 @@ public class ModDefaultLanguageProvider extends FabricLanguageProvider {
 
         translationBuilder.add(ModItems.RAW_TITANIUM, "Raw Titanium");
         translationBuilder.add(ModItems.TITANIUM_INGOT, "Titanium Ingot");
+        translationBuilder.add(ModItems.TITANIUM_ALLOY_DUST, "Titanium Alloy Dust");
 
         translationBuilder.add(ModBlocks.TITANIUM_BLOCK, "Titanium Block");
         translationBuilder.add(ModBlocks.RAW_TITANIUM_BLOCK, "Raw Titanium Block");
         translationBuilder.add(ModBlocks.TITANIUM_ORE, "Titanium Ore");
         translationBuilder.add(ModBlocks.DEEPSLATE_TITANIUM_ORE, "Deepslate Titanium Ore");
+
+        translationBuilder.add(ModItems.TITANIUM_AXE, "Titanium Axe");
+        translationBuilder.add(ModItems.TITANIUM_SWORD, "Titanium Sword");
+        translationBuilder.add(ModItems.TITANIUM_PICKAXE, "Titanium Pickaxe");
+        translationBuilder.add(ModItems.TITANIUM_SHOVEL, "Titanium Shovel");
+        translationBuilder.add(ModItems.TITANIUM_HOE, "Titanium Hoe");
     }
 }

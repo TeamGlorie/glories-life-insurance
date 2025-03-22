@@ -29,11 +29,17 @@ public class ModItemGroups {
                         .icon(() -> new ItemStack(ModItems.TITANIUM_INGOT))
                         .entries((displayContext, entries) -> {
                             entries.add(ModItems.RAW_TITANIUM);
+                            entries.add(ModItems.TITANIUM_ALLOY_DUST);
                             entries.add(ModItems.TITANIUM_INGOT);
                             entries.add(ModBlocks.TITANIUM_BLOCK);
                             entries.add(ModBlocks.TITANIUM_ORE);
                             entries.add(ModBlocks.DEEPSLATE_TITANIUM_ORE);
                             entries.add(ModBlocks.RAW_TITANIUM_BLOCK);
+                            entries.add(ModItems.TITANIUM_HOE);
+                            entries.add(ModItems.TITANIUM_AXE);
+                            entries.add(ModItems.TITANIUM_PICKAXE);
+                            entries.add(ModItems.TITANIUM_SHOVEL);
+                            entries.add(ModItems.TITANIUM_SWORD);
                         }).build());
     }
 }
