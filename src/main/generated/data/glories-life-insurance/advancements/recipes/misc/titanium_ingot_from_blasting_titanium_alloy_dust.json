@@ -3,16 +3,16 @@
   "criteria": {
     "has_the_recipe": {
       "conditions": {
-        "recipe": "minecraft:titanium_ingot_from_smelting_titanium_dust"
+        "recipe": "minecraft:titanium_ingot_from_blasting_titanium_alloy_dust"
       },
       "trigger": "minecraft:recipe_unlocked"
     },
-    "has_titanium_dust": {
+    "has_titanium_alloy_dust": {
       "conditions": {
         "items": [
           {
             "items": [
-              "glories-life-insurance:titanium_dust"
+              "glories-life-insurance:titanium_alloy_dust"
             ]
           }
         ]
@@ -22,13 +22,13 @@
   },
   "requirements": [
     [
-      "has_titanium_dust",
+      "has_titanium_alloy_dust",
       "has_the_recipe"
     ]
   ],
   "rewards": {
     "recipes": [
-      "minecraft:titanium_ingot_from_smelting_titanium_dust"
+      "minecraft:titanium_ingot_from_blasting_titanium_alloy_dust"
     ]
   },
   "sends_telemetry_event": false

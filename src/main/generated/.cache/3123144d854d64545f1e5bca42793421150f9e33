@@ -1,13 +1,14 @@
-// 1.20.1	2025-03-22T10:23:54.9030455	Glories Life Insurance/Model Definitions
-7ba87cb727f6e1f7407eab48eda6d085322d9145 assets\glories-life-insurance\models\item\titanium_shovel.json
+// 1.20.1	2025-03-22T10:43:19.3938854	Glories Life Insurance/Model Definitions
 d2d7f653bea07627617554894711a9d921831583 assets\glories-life-insurance\models\item\titanium_ingot.json
+7ba87cb727f6e1f7407eab48eda6d085322d9145 assets\glories-life-insurance\models\item\titanium_shovel.json
 b05c2c03263d2dc1c55cfedbb0e33f2859b1e38c assets\glories-life-insurance\models\item\titanium_block.json
 77a8da835529464a972cdd75b6c5d187a524421d assets\glories-life-insurance\blockstates\titanium_ore.json
 f6fe8f403934248eb74c9afd87a40ed6b4ea298c assets\glories-life-insurance\models\block\deepslate_titanium_ore.json
 a74c9fc6ee316f7abb1ecb012ee079528d4b4f5e assets\glories-life-insurance\models\block\titanium_ore.json
 903c360dbeabf41cd5f5fdc1866f31edf0faa36b assets\glories-life-insurance\blockstates\deepslate_titanium_ore.json
-5801b6c99c4791578825cd4e7aaf529ba1288bc3 assets\glories-life-insurance\models\item\titanium_hoe.json
 4e84922c1b6572aa283d99dc299fab9e60747c2f assets\glories-life-insurance\models\item\titanium_axe.json
+5801b6c99c4791578825cd4e7aaf529ba1288bc3 assets\glories-life-insurance\models\item\titanium_hoe.json
+ed1e070a9e7785349dc3ed565ce97b810ab6087a assets\glories-life-insurance\models\item\titanium_alloy_dust.json
 6ccfe1c030c0250792d2509e29db1505cfb4dc49 assets\glories-life-insurance\models\item\deepslate_titanium_ore.json
 0d164726096dadda30d84e501b9e839d27587768 assets\glories-life-insurance\blockstates\titanium_block.json
 1229583987f587ef1f24f4dcb04d9191ccd16241 assets\glories-life-insurance\models\item\titanium_pickaxe.json

@@ -11,7 +11,7 @@ public class ModItems {
     public static final Item RAW_TITANIUM = registerItem("raw_titanium",
             new Item(new Item.Settings()));
 
-    public static final Item TITANIUM_ALLOY_DUST = registerItem("titanium_dust",
+    public static final Item TITANIUM_ALLOY_DUST = registerItem("titanium_alloy_dust",
             new Item(new Item.Settings()));
 
     public static final Item TITANIUM_INGOT = registerItem("titanium_ingot",
